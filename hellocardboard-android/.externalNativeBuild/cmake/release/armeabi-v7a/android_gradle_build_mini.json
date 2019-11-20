@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\hellocardboard-android\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\hellocardboard-android\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "cardboard_jni-Release-armeabi-v7a": {
+      "artifactName": "cardboard_jni",
+      "buildCommand": "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\hellocardboard-android\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target cardboard_jni",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\hellocardboard-android\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libcardboard_jni.so"
+    }
+  }
+}
