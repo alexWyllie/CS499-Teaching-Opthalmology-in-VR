@@ -1,3 +1,0 @@
-C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/hellocardboard-android/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/hellocardboard-android/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/cardboard_jni.dir
-C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/hellocardboard-android/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir

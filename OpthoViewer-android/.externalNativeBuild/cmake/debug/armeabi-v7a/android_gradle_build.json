@@ -1,0 +1,50 @@
+
+{
+	"buildFiles" : [ "/Users/hankrussell/cardboard/OpthoViewer-android/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/Users/hankrussell/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"cardboard_jni-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_jni",
+			"buildCommand" : "/Users/hankrussell/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/debug/armeabi-v7a --target cardboard_jni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/hankrussell/cardboard/OpthoViewer-android/src/main/jni/OpthoViewer.cc",
+					"workingDirectory" : "/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/hankrussell/cardboard/OpthoViewer-android/src/main/jni/OpthoViewer_jni.cc",
+					"workingDirectory" : "/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/hankrussell/cardboard/OpthoViewer-android/src/main/jni/util.cc",
+					"workingDirectory" : "/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/hankrussell/cardboard/OpthoViewer-android/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_jni.so",
+			"toolchain" : "15338003810377538590"
+		}
+	},
+	"toolchains" : 
+	{
+		"15338003810377538590" : 
+		{
+			"cCompilerExecutable" : "/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

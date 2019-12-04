@@ -1,0 +1,11 @@
+# ninja log v5
+1	486	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer_jni.cc.o	429d5d3671aa247e
+0	962	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer.cc.o	a3c222f90c93a387
+1	1162	0	CMakeFiles/cardboard_jni.dir/src/main/jni/util.cc.o	114fefff084e7bfe
+1	360	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer_jni.cc.o	429d5d3671aa247e
+1	742	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer.cc.o	a3c222f90c93a387
+2	397	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer_jni.cc.o	429d5d3671aa247e
+1	816	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer.cc.o	a3c222f90c93a387
+1	348	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer_jni.cc.o	429d5d3671aa247e
+1	765	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer.cc.o	a3c222f90c93a387
+765	834	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libcardboard_jni.so	68f93f2ed94d4b73
