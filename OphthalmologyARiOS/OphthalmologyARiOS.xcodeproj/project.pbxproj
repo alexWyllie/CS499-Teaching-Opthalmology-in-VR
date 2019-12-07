@@ -1,0 +1,651 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B9283C53239AE9FE009CB7FC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9283C52239AE9FE009CB7FC /* AppDelegate.swift */; };
+		B9283C55239AE9FE009CB7FC /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = B9283C54239AE9FE009CB7FC /* art.scnassets */; };
+		B9283C57239AE9FE009CB7FC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9283C56239AE9FE009CB7FC /* ViewController.swift */; };
+		B9283C5A239AE9FE009CB7FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9283C58239AE9FE009CB7FC /* Main.storyboard */; };
+		B9283C5C239AE9FF009CB7FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9283C5B239AE9FF009CB7FC /* Assets.xcassets */; };
+		B9283C5F239AE9FF009CB7FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9283C5D239AE9FF009CB7FC /* LaunchScreen.storyboard */; };
+		B9283C6A239AE9FF009CB7FC /* OphthalmologyARiOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9283C69239AE9FF009CB7FC /* OphthalmologyARiOSTests.swift */; };
+		B9283C75239AE9FF009CB7FC /* OphthalmologyARiOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9283C74239AE9FF009CB7FC /* OphthalmologyARiOSUITests.swift */; };
+		B9283C83239AEAA2009CB7FC /* EyeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9283C82239AEAA2009CB7FC /* EyeScene.swift */; };
+		B9283C85239AEB73009CB7FC /* NodeExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9283C84239AEB73009CB7FC /* NodeExtensions.swift */; };
+		B9F32E81239AF1BE00D78C45 /* eyeHalfSphere.dae in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E80239AF1BE00D78C45 /* eyeHalfSphere.dae */; };
+		B9F32E83239AF34600D78C45 /* eyeHalfSphere.abc in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E82239AF34600D78C45 /* eyeHalfSphere.abc */; };
+		B9F32E85239AF47700D78C45 /* eyeHalfSphere_000001.scn in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E84239AF47700D78C45 /* eyeHalfSphere_000001.scn */; };
+		B9F32E87239AF73300D78C45 /* Screen Shot 2018-09-19 at 9.31.24 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E86239AF73300D78C45 /* Screen Shot 2018-09-19 at 9.31.24 PM.png */; };
+		B9F32E91239C56A300D78C45 /* Color-PDR2-OD-California.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E8A239C56A100D78C45 /* Color-PDR2-OD-California.jpg */; };
+		B9F32E92239C56A300D78C45 /* Color-Retinal-Detachment-California_result.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E8B239C56A200D78C45 /* Color-Retinal-Detachment-California_result.jpg */; };
+		B9F32E93239C56A300D78C45 /* Color-APMPPE-OS-California.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E8C239C56A200D78C45 /* Color-APMPPE-OS-California.jpg */; };
+		B9F32E94239C56A300D78C45 /* California-Retinal-Detachment-with-Horseshoe-TearRetinalHolesTearsDetachments1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E8D239C56A200D78C45 /* California-Retinal-Detachment-with-Horseshoe-TearRetinalHolesTearsDetachments1.jpg */; };
+		B9F32E95239C56A300D78C45 /* Color-Severe-NPDR-California.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E8E239C56A300D78C45 /* Color-Severe-NPDR-California.jpg */; };
+		B9F32E96239C56A300D78C45 /* California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E8F239C56A300D78C45 /* California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.jpg */; };
+		B9F32E97239C56A300D78C45 /* Color-Horseshoe-Tear-California_result.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9F32E90239C56A300D78C45 /* Color-Horseshoe-Tear-California_result.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		B9283C66239AE9FF009CB7FC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B9283C47239AE9FE009CB7FC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B9283C4E239AE9FE009CB7FC;
+			remoteInfo = OphthalmologyARiOS;
+		};
+		B9283C71239AE9FF009CB7FC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B9283C47239AE9FE009CB7FC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B9283C4E239AE9FE009CB7FC;
+			remoteInfo = OphthalmologyARiOS;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B9283C4F239AE9FE009CB7FC /* OphthalmologyARiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OphthalmologyARiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9283C52239AE9FE009CB7FC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		B9283C54239AE9FE009CB7FC /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		B9283C56239AE9FE009CB7FC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		B9283C59239AE9FE009CB7FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B9283C5B239AE9FF009CB7FC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B9283C5E239AE9FF009CB7FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		B9283C60239AE9FF009CB7FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9283C65239AE9FF009CB7FC /* OphthalmologyARiOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OphthalmologyARiOSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9283C69239AE9FF009CB7FC /* OphthalmologyARiOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OphthalmologyARiOSTests.swift; sourceTree = "<group>"; };
+		B9283C6B239AE9FF009CB7FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9283C70239AE9FF009CB7FC /* OphthalmologyARiOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OphthalmologyARiOSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9283C74239AE9FF009CB7FC /* OphthalmologyARiOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OphthalmologyARiOSUITests.swift; sourceTree = "<group>"; };
+		B9283C76239AE9FF009CB7FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9283C82239AEAA2009CB7FC /* EyeScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EyeScene.swift; path = /Users/alexwyllie/Documents/OphthalmologyARiOS/OphthalmologyARiOS/EyeScene.swift; sourceTree = "<absolute>"; };
+		B9283C84239AEB73009CB7FC /* NodeExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NodeExtensions.swift; path = /Users/alexwyllie/Documents/OphthalmologyARiOS/OphthalmologyARiOS/NodeExtensions.swift; sourceTree = "<absolute>"; };
+		B9283C86239AEC47009CB7FC /* eyeHalfSphere_000001.obj */ = {isa = PBXFileReference; lastKnownFileType = text; name = eyeHalfSphere_000001.obj; path = /Users/alexwyllie/Documents/OphthalmologyARiOS/OphthalmologyARiOS/eyeHalfSphere_000001.obj; sourceTree = "<absolute>"; };
+		B9283C87239AEEF4009CB7FC /* California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.png"; path = "/Users/alexwyllie/Documents/OphthalmologyARiOS/OphthalmologyARiOS/California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.png"; sourceTree = "<absolute>"; };
+		B9F32E80239AF1BE00D78C45 /* eyeHalfSphere.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; path = eyeHalfSphere.dae; sourceTree = "<group>"; };
+		B9F32E82239AF34600D78C45 /* eyeHalfSphere.abc */ = {isa = PBXFileReference; lastKnownFileType = file; path = eyeHalfSphere.abc; sourceTree = "<group>"; };
+		B9F32E84239AF47700D78C45 /* eyeHalfSphere_000001.scn */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = eyeHalfSphere_000001.scn; sourceTree = "<group>"; };
+		B9F32E86239AF73300D78C45 /* Screen Shot 2018-09-19 at 9.31.24 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2018-09-19 at 9.31.24 PM.png"; sourceTree = "<group>"; };
+		B9F32E8A239C56A100D78C45 /* Color-PDR2-OD-California.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Color-PDR2-OD-California.jpg"; sourceTree = "<group>"; };
+		B9F32E8B239C56A200D78C45 /* Color-Retinal-Detachment-California_result.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Color-Retinal-Detachment-California_result.jpg"; sourceTree = "<group>"; };
+		B9F32E8C239C56A200D78C45 /* Color-APMPPE-OS-California.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Color-APMPPE-OS-California.jpg"; sourceTree = "<group>"; };
+		B9F32E8D239C56A200D78C45 /* California-Retinal-Detachment-with-Horseshoe-TearRetinalHolesTearsDetachments1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "California-Retinal-Detachment-with-Horseshoe-TearRetinalHolesTearsDetachments1.jpg"; sourceTree = "<group>"; };
+		B9F32E8E239C56A300D78C45 /* Color-Severe-NPDR-California.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Color-Severe-NPDR-California.jpg"; sourceTree = "<group>"; };
+		B9F32E8F239C56A300D78C45 /* California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.jpg"; path = "../../../Downloads/optos image samples 2/California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.jpg"; sourceTree = "<group>"; };
+		B9F32E90239C56A300D78C45 /* Color-Horseshoe-Tear-California_result.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Color-Horseshoe-Tear-California_result.jpg"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B9283C4C239AE9FE009CB7FC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9283C62239AE9FF009CB7FC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9283C6D239AE9FF009CB7FC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B9283C46239AE9FE009CB7FC = {
+			isa = PBXGroup;
+			children = (
+				B9283C51239AE9FE009CB7FC /* OphthalmologyARiOS */,
+				B9283C68239AE9FF009CB7FC /* OphthalmologyARiOSTests */,
+				B9283C73239AE9FF009CB7FC /* OphthalmologyARiOSUITests */,
+				B9283C50239AE9FE009CB7FC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B9283C50239AE9FE009CB7FC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B9283C4F239AE9FE009CB7FC /* OphthalmologyARiOS.app */,
+				B9283C65239AE9FF009CB7FC /* OphthalmologyARiOSTests.xctest */,
+				B9283C70239AE9FF009CB7FC /* OphthalmologyARiOSUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B9283C51239AE9FE009CB7FC /* OphthalmologyARiOS */ = {
+			isa = PBXGroup;
+			children = (
+				B9283C87239AEEF4009CB7FC /* California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.png */,
+				B9283C84239AEB73009CB7FC /* NodeExtensions.swift */,
+				B9283C86239AEC47009CB7FC /* eyeHalfSphere_000001.obj */,
+				B9F32E84239AF47700D78C45 /* eyeHalfSphere_000001.scn */,
+				B9F32E8F239C56A300D78C45 /* California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.jpg */,
+				B9F32E8D239C56A200D78C45 /* California-Retinal-Detachment-with-Horseshoe-TearRetinalHolesTearsDetachments1.jpg */,
+				B9F32E8C239C56A200D78C45 /* Color-APMPPE-OS-California.jpg */,
+				B9F32E90239C56A300D78C45 /* Color-Horseshoe-Tear-California_result.jpg */,
+				B9F32E8A239C56A100D78C45 /* Color-PDR2-OD-California.jpg */,
+				B9F32E8B239C56A200D78C45 /* Color-Retinal-Detachment-California_result.jpg */,
+				B9F32E8E239C56A300D78C45 /* Color-Severe-NPDR-California.jpg */,
+				B9F32E86239AF73300D78C45 /* Screen Shot 2018-09-19 at 9.31.24 PM.png */,
+				B9283C82239AEAA2009CB7FC /* EyeScene.swift */,
+				B9F32E82239AF34600D78C45 /* eyeHalfSphere.abc */,
+				B9283C52239AE9FE009CB7FC /* AppDelegate.swift */,
+				B9F32E80239AF1BE00D78C45 /* eyeHalfSphere.dae */,
+				B9283C54239AE9FE009CB7FC /* art.scnassets */,
+				B9283C56239AE9FE009CB7FC /* ViewController.swift */,
+				B9283C58239AE9FE009CB7FC /* Main.storyboard */,
+				B9283C5B239AE9FF009CB7FC /* Assets.xcassets */,
+				B9283C5D239AE9FF009CB7FC /* LaunchScreen.storyboard */,
+				B9283C60239AE9FF009CB7FC /* Info.plist */,
+			);
+			path = OphthalmologyARiOS;
+			sourceTree = "<group>";
+		};
+		B9283C68239AE9FF009CB7FC /* OphthalmologyARiOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				B9283C69239AE9FF009CB7FC /* OphthalmologyARiOSTests.swift */,
+				B9283C6B239AE9FF009CB7FC /* Info.plist */,
+			);
+			path = OphthalmologyARiOSTests;
+			sourceTree = "<group>";
+		};
+		B9283C73239AE9FF009CB7FC /* OphthalmologyARiOSUITests */ = {
+			isa = PBXGroup;
+			children = (
+				B9283C74239AE9FF009CB7FC /* OphthalmologyARiOSUITests.swift */,
+				B9283C76239AE9FF009CB7FC /* Info.plist */,
+			);
+			path = OphthalmologyARiOSUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B9283C4E239AE9FE009CB7FC /* OphthalmologyARiOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9283C79239AE9FF009CB7FC /* Build configuration list for PBXNativeTarget "OphthalmologyARiOS" */;
+			buildPhases = (
+				B9283C4B239AE9FE009CB7FC /* Sources */,
+				B9283C4C239AE9FE009CB7FC /* Frameworks */,
+				B9283C4D239AE9FE009CB7FC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = OphthalmologyARiOS;
+			productName = OphthalmologyARiOS;
+			productReference = B9283C4F239AE9FE009CB7FC /* OphthalmologyARiOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		B9283C64239AE9FF009CB7FC /* OphthalmologyARiOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9283C7C239AE9FF009CB7FC /* Build configuration list for PBXNativeTarget "OphthalmologyARiOSTests" */;
+			buildPhases = (
+				B9283C61239AE9FF009CB7FC /* Sources */,
+				B9283C62239AE9FF009CB7FC /* Frameworks */,
+				B9283C63239AE9FF009CB7FC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B9283C67239AE9FF009CB7FC /* PBXTargetDependency */,
+			);
+			name = OphthalmologyARiOSTests;
+			productName = OphthalmologyARiOSTests;
+			productReference = B9283C65239AE9FF009CB7FC /* OphthalmologyARiOSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		B9283C6F239AE9FF009CB7FC /* OphthalmologyARiOSUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B9283C7F239AE9FF009CB7FC /* Build configuration list for PBXNativeTarget "OphthalmologyARiOSUITests" */;
+			buildPhases = (
+				B9283C6C239AE9FF009CB7FC /* Sources */,
+				B9283C6D239AE9FF009CB7FC /* Frameworks */,
+				B9283C6E239AE9FF009CB7FC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B9283C72239AE9FF009CB7FC /* PBXTargetDependency */,
+			);
+			name = OphthalmologyARiOSUITests;
+			productName = OphthalmologyARiOSUITests;
+			productReference = B9283C70239AE9FF009CB7FC /* OphthalmologyARiOSUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B9283C47239AE9FE009CB7FC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1120;
+				LastUpgradeCheck = 1120;
+				ORGANIZATIONNAME = "Alex Wyllie";
+				TargetAttributes = {
+					B9283C4E239AE9FE009CB7FC = {
+						CreatedOnToolsVersion = 11.2.1;
+					};
+					B9283C64239AE9FF009CB7FC = {
+						CreatedOnToolsVersion = 11.2.1;
+						TestTargetID = B9283C4E239AE9FE009CB7FC;
+					};
+					B9283C6F239AE9FF009CB7FC = {
+						CreatedOnToolsVersion = 11.2.1;
+						TestTargetID = B9283C4E239AE9FE009CB7FC;
+					};
+				};
+			};
+			buildConfigurationList = B9283C4A239AE9FE009CB7FC /* Build configuration list for PBXProject "OphthalmologyARiOS" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B9283C46239AE9FE009CB7FC;
+			productRefGroup = B9283C50239AE9FE009CB7FC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B9283C4E239AE9FE009CB7FC /* OphthalmologyARiOS */,
+				B9283C64239AE9FF009CB7FC /* OphthalmologyARiOSTests */,
+				B9283C6F239AE9FF009CB7FC /* OphthalmologyARiOSUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B9283C4D239AE9FE009CB7FC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9F32E95239C56A300D78C45 /* Color-Severe-NPDR-California.jpg in Resources */,
+				B9F32E97239C56A300D78C45 /* Color-Horseshoe-Tear-California_result.jpg in Resources */,
+				B9F32E83239AF34600D78C45 /* eyeHalfSphere.abc in Resources */,
+				B9F32E85239AF47700D78C45 /* eyeHalfSphere_000001.scn in Resources */,
+				B9F32E94239C56A300D78C45 /* California-Retinal-Detachment-with-Horseshoe-TearRetinalHolesTearsDetachments1.jpg in Resources */,
+				B9F32E87239AF73300D78C45 /* Screen Shot 2018-09-19 at 9.31.24 PM.png in Resources */,
+				B9F32E92239C56A300D78C45 /* Color-Retinal-Detachment-California_result.jpg in Resources */,
+				B9F32E91239C56A300D78C45 /* Color-PDR2-OD-California.jpg in Resources */,
+				B9F32E96239C56A300D78C45 /* California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.jpg in Resources */,
+				B9283C55239AE9FE009CB7FC /* art.scnassets in Resources */,
+				B9283C5F239AE9FF009CB7FC /* LaunchScreen.storyboard in Resources */,
+				B9F32E93239C56A300D78C45 /* Color-APMPPE-OS-California.jpg in Resources */,
+				B9283C5C239AE9FF009CB7FC /* Assets.xcassets in Resources */,
+				B9283C5A239AE9FE009CB7FC /* Main.storyboard in Resources */,
+				B9F32E81239AF1BE00D78C45 /* eyeHalfSphere.dae in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9283C63239AE9FF009CB7FC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9283C6E239AE9FF009CB7FC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B9283C4B239AE9FE009CB7FC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9283C57239AE9FE009CB7FC /* ViewController.swift in Sources */,
+				B9283C85239AEB73009CB7FC /* NodeExtensions.swift in Sources */,
+				B9283C83239AEAA2009CB7FC /* EyeScene.swift in Sources */,
+				B9283C53239AE9FE009CB7FC /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9283C61239AE9FF009CB7FC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9283C6A239AE9FF009CB7FC /* OphthalmologyARiOSTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B9283C6C239AE9FF009CB7FC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B9283C75239AE9FF009CB7FC /* OphthalmologyARiOSUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B9283C67239AE9FF009CB7FC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B9283C4E239AE9FE009CB7FC /* OphthalmologyARiOS */;
+			targetProxy = B9283C66239AE9FF009CB7FC /* PBXContainerItemProxy */;
+		};
+		B9283C72239AE9FF009CB7FC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B9283C4E239AE9FE009CB7FC /* OphthalmologyARiOS */;
+			targetProxy = B9283C71239AE9FF009CB7FC /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		B9283C58239AE9FE009CB7FC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9283C59239AE9FE009CB7FC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		B9283C5D239AE9FF009CB7FC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B9283C5E239AE9FF009CB7FC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B9283C77239AE9FF009CB7FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		B9283C78239AE9FF009CB7FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B9283C7A239AE9FF009CB7FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AWDYU25QPV;
+				INFOPLIST_FILE = OphthalmologyARiOS/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Wyllie.OphthalmologyARiOS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		B9283C7B239AE9FF009CB7FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AWDYU25QPV;
+				INFOPLIST_FILE = OphthalmologyARiOS/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Wyllie.OphthalmologyARiOS;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		B9283C7D239AE9FF009CB7FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AWDYU25QPV;
+				INFOPLIST_FILE = OphthalmologyARiOSTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Wyllie.OphthalmologyARiOSTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OphthalmologyARiOS.app/OphthalmologyARiOS";
+			};
+			name = Debug;
+		};
+		B9283C7E239AE9FF009CB7FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AWDYU25QPV;
+				INFOPLIST_FILE = OphthalmologyARiOSTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Wyllie.OphthalmologyARiOSTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OphthalmologyARiOS.app/OphthalmologyARiOS";
+			};
+			name = Release;
+		};
+		B9283C80239AE9FF009CB7FC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AWDYU25QPV;
+				INFOPLIST_FILE = OphthalmologyARiOSUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Wyllie.OphthalmologyARiOSUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = OphthalmologyARiOS;
+			};
+			name = Debug;
+		};
+		B9283C81239AE9FF009CB7FC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = AWDYU25QPV;
+				INFOPLIST_FILE = OphthalmologyARiOSUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = Wyllie.OphthalmologyARiOSUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = OphthalmologyARiOS;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B9283C4A239AE9FE009CB7FC /* Build configuration list for PBXProject "OphthalmologyARiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9283C77239AE9FF009CB7FC /* Debug */,
+				B9283C78239AE9FF009CB7FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B9283C79239AE9FF009CB7FC /* Build configuration list for PBXNativeTarget "OphthalmologyARiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9283C7A239AE9FF009CB7FC /* Debug */,
+				B9283C7B239AE9FF009CB7FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B9283C7C239AE9FF009CB7FC /* Build configuration list for PBXNativeTarget "OphthalmologyARiOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9283C7D239AE9FF009CB7FC /* Debug */,
+				B9283C7E239AE9FF009CB7FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B9283C7F239AE9FF009CB7FC /* Build configuration list for PBXNativeTarget "OphthalmologyARiOSUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B9283C80239AE9FF009CB7FC /* Debug */,
+				B9283C81239AE9FF009CB7FC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B9283C47239AE9FE009CB7FC /* Project object */;
+}
