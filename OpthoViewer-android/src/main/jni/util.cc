@@ -29,7 +29,7 @@
 
 #include <GLES2/gl2.h>
 
-namespace OpthoViewer {
+namespace ndk_hello_cardboard {
 
 namespace {
 
@@ -544,4 +544,4 @@ void Texture::Bind() const {
   glBindTexture(GL_TEXTURE_2D, texture_id_);
 }
 
-}  // namespace OpthoViewer
+}  // namespace ndk_hello_cardboard

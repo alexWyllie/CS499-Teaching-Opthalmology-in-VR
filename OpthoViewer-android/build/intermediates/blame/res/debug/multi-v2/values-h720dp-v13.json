@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hankrussell/cardboard/OpthoViewer-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/hankrussell/.gradle/caches/transforms-2/files-2.1/867fe3d6d89976d787d67459fcec7418/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

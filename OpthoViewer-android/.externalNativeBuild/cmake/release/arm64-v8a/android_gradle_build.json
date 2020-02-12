@@ -1,9 +1,12 @@
 
 {
-	"buildFiles" : [ "/Users/hankrussell/cardboard/OpthoViewer-android/CMakeLists.txt" ],
+	"buildFiles" : 
+	[
+		"/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/CMakeLists.txt"
+	],
 	"cleanCommands" : 
 	[
-		"/Users/hankrussell/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+		"/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
 	],
 	"cppFileExtensions" : [ "cc" ],
 	"libraries" : 
@@ -12,39 +15,39 @@
 		{
 			"abi" : "arm64-v8a",
 			"artifactName" : "cardboard_jni",
-			"buildCommand" : "/Users/hankrussell/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a --target cardboard_jni",
+			"buildCommand" : "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a --target cardboard_jni",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/hankrussell/cardboard/OpthoViewer-android/src/main/jni/OpthoViewer.cc",
-					"workingDirectory" : "/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a"
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=gnu++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/src/main/jni/hello_cardboard.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a"
 				},
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/hankrussell/cardboard/OpthoViewer-android/src/main/jni/OpthoViewer_jni.cc",
-					"workingDirectory" : "/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a"
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=gnu++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/src/main/jni/hello_cardboard_jni.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a"
 				},
 				
 				{
-					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O2 -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/hankrussell/cardboard/OpthoViewer-android/src/main/jni/util.cc",
-					"workingDirectory" : "/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a"
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=gnu++11 -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/src/main/jni/util.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/arm64-v8a"
 				}
 			],
-			"output" : "/Users/hankrussell/cardboard/OpthoViewer-android/build/intermediates/cmake/release/obj/arm64-v8a/libcardboard_jni.so",
-			"toolchain" : "15338003810377538590"
+			"output" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/build/intermediates/cmake/release/obj/arm64-v8a/libcardboard_jni.so",
+			"toolchain" : "1958009949224442459"
 		}
 	},
 	"toolchains" : 
 	{
-		"15338003810377538590" : 
+		"1958009949224442459" : 
 		{
-			"cCompilerExecutable" : "/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
-			"cppCompilerExecutable" : "/Users/hankrussell/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+			"cCompilerExecutable" : "/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
 		}
 	}
 }

@@ -35,7 +35,7 @@
     abort();                                                               \
   }
 
-namespace OpthoViewer {
+namespace ndk_hello_cardboard {
 
 class Matrix4x4 {
  public:
@@ -183,6 +183,6 @@ class Texture {
   GLuint texture_id_;
 };
 
-}  // namespace OpthoViewer
+}  // namespace ndk_hello_cardboard
 
 #endif  // HELLO_CARDBOARD_ANDROID_SRC_MAIN_JNI_UTIL_H_

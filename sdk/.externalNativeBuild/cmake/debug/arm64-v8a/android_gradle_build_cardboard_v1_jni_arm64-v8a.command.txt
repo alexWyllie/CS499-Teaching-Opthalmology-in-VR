@@ -1,7 +1,7 @@
-Executable : C:\Users\muadh.ghuneim\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+Executable : /home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
 --build
-C:\Users\muadh.ghuneim\Documents\GitHub\cardboard\sdk\.externalNativeBuild\cmake\debug\arm64-v8a
+/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/arm64-v8a
 --target
 cardboard_v1_jni
 jvmArgs : 

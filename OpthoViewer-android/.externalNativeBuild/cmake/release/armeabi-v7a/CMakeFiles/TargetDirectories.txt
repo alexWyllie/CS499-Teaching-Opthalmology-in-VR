@@ -1,3 +1,3 @@
-/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
-/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/cardboard_jni.dir
+/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/cardboard_jni.dir

@@ -1,174 +1,174 @@
 [
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/bde9f79162f53f5158f24bca652da6de/res/color/common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_secondary_text_material_dark.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_ripple_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_chip_ripple_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_btn_bg_color_selector.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_btn_bg_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_fab_ripple_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_fab_ripple_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_tabs_legacy_text_color_selector.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_tabs_legacy_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_tabs_ripple_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_tabs_ripple_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\switch_thumb_material_dark.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/design_tint_password_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\3e48498ec78050b18a6b6665603e343b\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_btn_stroke_color_selector.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_btn_stroke_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_bottom_nav_item_tint.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_bottom_nav_item_tint.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_chip_close_icon_tint.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_chip_close_icon_tint.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\3e48498ec78050b18a6b6665603e343b\\res\\color\\common_google_signin_btn_text_light.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/switch_thumb_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\3e48498ec78050b18a6b6665603e343b\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_tabs_icon_color_selector.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_tabs_icon_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_ripple_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_btn_ripple_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_bottom_nav_colored_item_tint.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_bottom_nav_colored_item_tint.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_stroke_color_selector.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_secondary_text_material_light.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_fab_ripple_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_fab_ripple_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\design_error.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\design_error.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_btn_text_btn_ripple_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_btn_text_btn_ripple_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_tint_default.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_text_btn_text_color_selector.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_text_btn_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_icon_color_selector.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_tabs_icon_color_selector.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_tabs_icon_color_selector_colored.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_tabs_icon_color_selector_colored.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_bottom_nav_colored_item_tint.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_bottom_nav_colored_item_tint.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_icon_color_selector_colored.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_text_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_chip_text_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_bottom_nav_item_tint.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_bottom_nav_item_tint.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_colored_ripple_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_text_btn_ripple_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_btn_text_btn_ripple_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_tabs_colored_ripple_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_tabs_colored_ripple_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_chip_text_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_chip_text_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_tint_spinner.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/design_error.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_chip_background_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_chip_background_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_ripple_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_tabs_ripple_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_tint_default.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/bde9f79162f53f5158f24bca652da6de/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_background_color.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_chip_background_color.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_bg_color_selector.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_btn_bg_color_selector.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_search_url_text.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_primary_text_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_chip_close_icon_tint.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_chip_close_icon_tint.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_tint_switch_track.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_tint_edittext.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_tabs_legacy_text_color_selector.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_tabs_legacy_text_color_selector.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/bde9f79162f53f5158f24bca652da6de/res/color/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_btn_text_color_selector.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_btn_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_chip_ripple_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_chip_ripple_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\color\\abc_tint_spinner.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/mtrl_btn_ripple_color.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/041f06d91a130c1eab3a1b0bcea42a8e/res/color/mtrl_btn_ripple_color.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_btn_text_color_selector.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_btn_text_color_selector.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\color\\mtrl_text_btn_text_color_selector.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\47233bbbd447c13314aa102a50b4d997\\res\\color\\mtrl_text_btn_text_color_selector.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/color/abc_secondary_text_material_light.xml"
     }
 ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hankrussell/cardboard/OpthoViewer-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+            "outputFile": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
             "map": [
                 {
-                    "source": "/Users/hankrussell/.gradle/caches/transforms-2/files-2.1/867fe3d6d89976d787d67459fcec7418/res/values-as/values-as.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/hankrussell/.gradle/caches/transforms-2/files-2.1/49eed0d5d6cf6b150a79614f756b7943/res/values-as/values-as.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/71f9851d97b8d09828611e02c1509b87/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

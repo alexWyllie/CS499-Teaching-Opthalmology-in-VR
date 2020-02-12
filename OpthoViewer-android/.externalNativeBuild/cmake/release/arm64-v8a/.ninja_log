@@ -1,5 +1,0 @@
-# ninja log v5
-0	446	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer_jni.cc.o	18285de99219ccec
-0	936	0	CMakeFiles/cardboard_jni.dir/src/main/jni/OpthoViewer.cc.o	60d1feeb18ddccc2
-1	1480	0	CMakeFiles/cardboard_jni.dir/src/main/jni/util.cc.o	97a629fba4a408f2
-1480	1541	0	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libcardboard_jni.so	f382f85bed549aa5

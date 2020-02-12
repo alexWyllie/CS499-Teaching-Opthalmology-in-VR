@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/cardboard.iml" filepath="$PROJECT_DIR$/cardboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hellocardboard-android/hellocardboard-android.iml" filepath="$PROJECT_DIR$/hellocardboard-android/hellocardboard-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS499-Teaching-Opthalmology-in-VR.iml" filepath="$PROJECT_DIR$/CS499-Teaching-Opthalmology-in-VR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpthoViewer-android/OpthoViewer-android.iml" filepath="$PROJECT_DIR$/OpthoViewer-android/OpthoViewer-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/sdk/sdk.iml" filepath="$PROJECT_DIR$/sdk/sdk.iml" />
     </modules>
   </component>

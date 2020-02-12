@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/71f9851d97b8d09828611e02c1509b87/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,25 +30,25 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c54f52462ce971a1ba9c65fa1bf0259d\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]
         },
         {
-            "outputFile": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\values-v16\\values-v16.xml",
+            "outputFile": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\values-v16\\values-v16.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/71f9851d97b8d09828611e02c1509b87/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -54,16 +64,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c54f52462ce971a1ba9c65fa1bf0259d\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]

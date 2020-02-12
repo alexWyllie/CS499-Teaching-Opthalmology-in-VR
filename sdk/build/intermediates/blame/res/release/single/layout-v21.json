@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c54f52462ce971a1ba9c65fa1bf0259d\\res\\layout-v21\\notification_action_tombstone.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/71f9851d97b8d09828611e02c1509b87/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c54f52462ce971a1ba9c65fa1bf0259d\\res\\layout-v21\\notification_template_icon_group.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/71f9851d97b8d09828611e02c1509b87/res/layout-v21/notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c54f52462ce971a1ba9c65fa1bf0259d\\res\\layout-v21\\notification_action.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/71f9851d97b8d09828611e02c1509b87/res/layout-v21/notification_template_icon_group.xml"
     },
     {
-        "merged": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c54f52462ce971a1ba9c65fa1bf0259d\\res\\layout-v21\\notification_template_custom_big.xml"
+        "merged": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/71f9851d97b8d09828611e02c1509b87/res/layout-v21/notification_action.xml"
     }
 ]

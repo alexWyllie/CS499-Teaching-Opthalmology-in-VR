@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\res\\merged\\release\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/res/merged/release/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\muadh.ghuneim\\.gradle\\caches\\transforms-2\\files-2.1\\c84982f59ffdc0203cbe2e6ca3b89b43\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "/home/alex/.gradle/caches/transforms-2/files-2.1/27751722c1ca19e7dca800c3543bd036/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

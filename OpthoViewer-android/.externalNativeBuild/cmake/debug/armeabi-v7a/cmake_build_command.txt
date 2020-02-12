@@ -1,15 +1,15 @@
-Executable : /Users/hankrussell/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+Executable : /home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake
 arguments : 
--H/Users/hankrussell/cardboard/OpthoViewer-android
--B/Users/hankrussell/cardboard/OpthoViewer-android/.externalNativeBuild/cmake/debug/armeabi-v7a
+-H/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android
+-B/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/.externalNativeBuild/cmake/debug/armeabi-v7a
 -DANDROID_ABI=armeabi-v7a
 -DANDROID_PLATFORM=android-21
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/hankrussell/cardboard/OpthoViewer-android/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/OpthoViewer-android/build/intermediates/cmake/debug/obj/armeabi-v7a
 -DCMAKE_BUILD_TYPE=Debug
--DANDROID_NDK=/Users/hankrussell/Library/Android/sdk/ndk-bundle
+-DANDROID_NDK=/home/alex/Android/Sdk/ndk-bundle
 -DCMAKE_CXX_FLAGS=-std=gnu++11
--DCMAKE_TOOLCHAIN_FILE=/Users/hankrussell/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
--DCMAKE_MAKE_PROGRAM=/Users/hankrussell/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/home/alex/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/home/alex/Android/Sdk/cmake/3.6.4111459/bin/ninja
 -GAndroid Gradle - Ninja
 -DANDROID_STL=c++_shared
 jvmArgs : 

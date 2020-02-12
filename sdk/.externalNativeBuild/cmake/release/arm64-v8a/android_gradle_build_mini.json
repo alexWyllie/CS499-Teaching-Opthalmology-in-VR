@@ -1,28 +1,28 @@
 {
   "buildFiles": [
-    "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\CMakeLists.txt"
+    "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/CMakeLists.txt"
   ],
   "cleanCommands": [
-    "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+    "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
   ],
   "libraries": {
     "cardboard_api-Release-arm64-v8a": {
       "artifactName": "cardboard_api",
-      "buildCommand": "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target cardboard_api",
+      "buildCommand": "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/release/arm64-v8a --target cardboard_api",
       "abi": "arm64-v8a",
-      "output": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_api.so"
+      "output": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/cmake/release/obj/arm64-v8a/libcardboard_api.so"
     },
     "cardboard_device_proto-Release-arm64-v8a": {
       "artifactName": "cardboard_device_proto",
-      "buildCommand": "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target cardboard_device_proto",
+      "buildCommand": "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/release/arm64-v8a --target cardboard_device_proto",
       "abi": "arm64-v8a",
-      "output": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_device_proto.so"
+      "output": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/cmake/release/obj/arm64-v8a/libcardboard_device_proto.so"
     },
     "cardboard_v1_jni-Release-arm64-v8a": {
       "artifactName": "cardboard_v1_jni",
-      "buildCommand": "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target cardboard_v1_jni",
+      "buildCommand": "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/release/arm64-v8a --target cardboard_v1_jni",
       "abi": "arm64-v8a",
-      "output": "C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_v1_jni.so"
+      "output": "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/cmake/release/obj/arm64-v8a/libcardboard_v1_jni.so"
     }
   }
 }

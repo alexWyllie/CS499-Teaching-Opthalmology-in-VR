@@ -2,11 +2,11 @@
 {
 	"buildFiles" : 
 	[
-		"C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/CMakeLists.txt"
+		"/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/CMakeLists.txt"
 	],
 	"cleanCommands" : 
 	[
-		"C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+		"/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
 	],
 	"cppFileExtensions" : [ "cc" ],
 	"libraries" : 
@@ -15,201 +15,201 @@
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "cardboard_api",
-			"buildCommand" : "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target cardboard_api",
+			"buildCommand" : "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a --target cardboard_api",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/cardboard.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/cardboard.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/distortion_mesh.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/distortion_mesh.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/distortion_renderer.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/distortion_renderer.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/head_tracker.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/head_tracker.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/lens_distortion.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/lens_distortion.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/polynomial_radial_distortion.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/polynomial_radial_distortion.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/gyroscope_bias_estimator.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/gyroscope_bias_estimator.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/lowpass_filter.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/lowpass_filter.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/mean_filter.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/mean_filter.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/median_filter.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/median_filter.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/neck_model.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/neck_model.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/pose_prediction.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/pose_prediction.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/sensor_fusion_ekf.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/sensor_fusion_ekf.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/android/device_accelerometer_sensor.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/android/device_accelerometer_sensor.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/android/device_gyroscope_sensor.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/android/device_gyroscope_sensor.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/sensors/android/sensor_event_producer.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/sensors/android/sensor_event_producer.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/util/matrix_3x3.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/util/matrix_3x3.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/util/matrix_4x4.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/util/matrix_4x4.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/util/matrixutils.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/util/matrixutils.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/util/rotation.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/util/rotation.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/util/vectorutils.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/util/vectorutils.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/qrcode/android/qr_code.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/qrcode/android/qr_code.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/screen_params/android/screen_params.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/screen_params/android/screen_params.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				}
 			],
-			"output" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_api.so",
-			"toolchain" : "2634656329"
+			"output" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_api.so",
+			"toolchain" : "1958009949224442459"
 		},
 		"cardboard_device_proto-Debug-armeabi-v7a" : 
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "cardboard_device_proto",
-			"buildCommand" : "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target cardboard_device_proto",
+			"buildCommand" : "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a --target cardboard_device_proto",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_device_proto_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/proto/cardboard_device.pb.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_device_proto_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/cardboard_device.pb.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				}
 			],
-			"output" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_device_proto.so",
-			"toolchain" : "2634656329"
+			"output" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_device_proto.so",
+			"toolchain" : "1958009949224442459"
 		},
 		"cardboard_v1_jni-Debug-armeabi-v7a" : 
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "cardboard_v1_jni",
-			"buildCommand" : "C:\\Users\\muadh.ghuneim\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target cardboard_v1_jni",
+			"buildCommand" : "/home/alex/Android/Sdk/cmake/3.6.4111459/bin/cmake --build /home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a --target cardboard_v1_jni",
 			"buildType" : "debug",
 			"files" : 
 			[
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_v1_jni_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/qrcode/android/jni/qrcode_jni.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_v1_jni_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/qrcode/android/jni/qrcode_jni.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				},
 				
 				{
-					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_v1_jni_EXPORTS -I..\\..\\..\\..\\. -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto -IC:\\Users\\muadh.ghuneim\\Documents\\GitHub\\cardboard\\proto\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
-					"src" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/qrcode/cardboard_v1/cardboard_v1.cc",
-					"workingDirectory" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dcardboard_v1_jni_EXPORTS -I../../../../. -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto -I/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/proto/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/qrcode/cardboard_v1/cardboard_v1.cc",
+					"workingDirectory" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
 				}
 			],
-			"output" : "C:/Users/muadh.ghuneim/Documents/GitHub/cardboard/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_v1_jni.so",
-			"toolchain" : "2634656329"
+			"output" : "/home/alex/StudioProjects/CS499-Teaching-Opthalmology-in-VR/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_v1_jni.so",
+			"toolchain" : "1958009949224442459"
 		}
 	},
 	"toolchains" : 
 	{
-		"2634656329" : 
+		"1958009949224442459" : 
 		{
-			"cCompilerExecutable" : "C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
-			"cppCompilerExecutable" : "C:/Users/muadh.ghuneim/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+			"cCompilerExecutable" : "/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/alex/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
 		}
 	}
 }
