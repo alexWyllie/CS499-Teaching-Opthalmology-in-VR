@@ -99,7 +99,7 @@ namespace ndk_hello_cardboard {
         vm->GetEnv((void**)&env, JNI_VERSION_1_6);
         java_asset_mgr_ = env->NewGlobalRef(asset_mgr_obj);
         asset_mgr_ = AAssetManager_fromJava(env, asset_mgr_obj);
-
+        head_tracker_ = CardboardHeadTracker_create();
         Cardboard_initializeAndroid(vm, obj);
         head_tracker_ = CardboardHeadTracker_create();
     }
@@ -134,16 +134,16 @@ namespace ndk_hello_cardboard {
         CHECKGLERROR("Obj program params");
 
         // Initialize the room and render
-        HELLOCARDBOARD_CHECK(room_.Initialize(env, asset_mgr_, "CubeRoom.obj",
+        HELLOCARDBOARD_CHECK(room_.Initialize(env, asset_mgr_, "Room.obj",
                                               obj_position_param_, obj_uv_param_));
         HELLOCARDBOARD_CHECK(
-                room_tex_.Initialize(env, java_asset_mgr_, "CubeRoom_BakedDiffuse.png"));
+                room_tex_.Initialize(env, java_asset_mgr_, "Room_BakedDiffuse.png"));
 
         // Initialize the eye and render
         HELLOCARDBOARD_CHECK(target_object_meshes_[0].Initialize(
-                env, asset_mgr_, "Eye.obj", obj_position_param_, obj_uv_param_));
+                env, asset_mgr_, "Eye_BakedDiffuse.obj", obj_position_param_, obj_uv_param_));
         HELLOCARDBOARD_CHECK(target_object_not_selected_textures_[0].Initialize(
-                env, java_asset_mgr_, "Eye_BakedDiffuse.png"));
+                env, java_asset_mgr_, "California-Proliferative-Diabetic-RetinopathyDiabeticRetinopathy8.png"));
 
         // Target object first appears directly in front of user.
         model_target_ = GetTranslationMatrix({0.0f, 1.7f, kMinTargetDistance});
